@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7489939e-a9e9-45d7-852e-28e263b5105e" name="Changes" comment="added banking system">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mag/Menu.java" afterDir="false" />
+    <list default="true" id="7489939e-a9e9-45d7-852e-28e263b5105e" name="Changes" comment="made banking more complex for no reason">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/mag/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mag/Bank.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/mag/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mag/Main.java" afterDir="false" />
@@ -96,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653030793617</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="made banking more complex for no reason">
+      <created>1653035575939</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1653035575939</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -125,6 +131,7 @@
     <MESSAGE value="added Person" />
     <MESSAGE value="added account checking and withdrawal system" />
     <MESSAGE value="added banking system" />
-    <option name="LAST_COMMIT_MESSAGE" value="added banking system" />
+    <MESSAGE value="made banking more complex for no reason" />
+    <option name="LAST_COMMIT_MESSAGE" value="made banking more complex for no reason" />
   </component>
 </project>
