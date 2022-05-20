@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7489939e-a9e9-45d7-852e-28e263b5105e" name="Changes" comment="made banking more complex for no reason">
+    <list default="true" id="7489939e-a9e9-45d7-852e-28e263b5105e" name="Changes" comment="improved banking :)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mag/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mag/Bank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mag/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mag/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,12 +30,12 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.mag.Main" />
@@ -102,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653035575939</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="improved banking :)">
+      <created>1653037713756</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1653037713757</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -132,6 +137,7 @@
     <MESSAGE value="added account checking and withdrawal system" />
     <MESSAGE value="added banking system" />
     <MESSAGE value="made banking more complex for no reason" />
-    <option name="LAST_COMMIT_MESSAGE" value="made banking more complex for no reason" />
+    <MESSAGE value="improved banking :)" />
+    <option name="LAST_COMMIT_MESSAGE" value="improved banking :)" />
   </component>
 </project>
