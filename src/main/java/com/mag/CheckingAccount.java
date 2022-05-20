@@ -3,6 +3,10 @@ package com.mag;
 public class CheckingAccount {
     public double balance;
 
+    public CheckingAccount(double balance) {
+        this.balance = balance;
+    }
+
     public CheckingAccount(long balance) {
         this.balance = balance;
     }
